@@ -1,4 +1,4 @@
-# Systemless Pixel Launcher for AOSP-like Android 14 ROMs. 
+# Systemless Pixel Launcher for AOSP-like Android 14 ROMs
 Tested on Uvite (Paranoid Android 14)
 
 Install: 
